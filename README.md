@@ -1,4 +1,4 @@
 # firstRepo
 Writing my first repository
 <br>
-Author - Shubham Shrivastava
+Author - Shubham Shrivastava git
